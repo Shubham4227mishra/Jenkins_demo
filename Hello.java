@@ -1,6 +1,6 @@
 public class Hello
 {
-public static void main(String[] sam)
+public static voidain(String[] sam)
 {
 System.out.println("nsa");
 }
